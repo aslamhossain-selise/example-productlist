@@ -3,31 +3,61 @@
     {
       "id": 1,
       "title": "Fried Chicken",
-      "price": 20,
+      "price": 250,
       "image": "https://img.freepik.com/free-photo/chicken-wings_144627-17035.jpg?w=2000"
     },
     {
-      "id": 1,
-      "title": "Fried Chicken",
-      "price": 20,
+      "id": 2,
+      "title": "Naga Pizza",
+      "price": 60,
       "image": "https://img.freepik.com/free-photo/chicken-wings_144627-17035.jpg?w=2000"
     },
     {
-      "id": 1,
-      "title": "Fried Chicken",
-      "price": 20,
+      "id": 3,
+      "title": "Pasta",
+      "price": 50,
       "image": "https://img.freepik.com/free-photo/chicken-wings_144627-17035.jpg?w=2000"
     },
     {
-      "id": 1,
-      "title": "Fried Chicken",
-      "price": 20,
+      "id": 4,
+      "title": "French Fries",
+      "price": 80,
       "image": "https://img.freepik.com/free-photo/chicken-wings_144627-17035.jpg?w=2000"
     },
     {
-      "id": 1,
-      "title": "Fried Chicken",
-      "price": 20,
+      "id": 5,
+      "title": "Fried Rice",
+      "price": 300,
+      "image": "https://img.freepik.com/free-photo/chicken-wings_144627-17035.jpg?w=2000"
+    },
+    {
+      "id": 6,
+      "title": "Burger",
+      "price": 100,
+      "image": "https://img.freepik.com/free-photo/chicken-wings_144627-17035.jpg?w=2000"
+    },
+    {
+      "id": 7,
+      "title": "Pumpkin Pie",
+      "price": 90,
+      "image": "https://img.freepik.com/free-photo/chicken-wings_144627-17035.jpg?w=2000"
+    },
+    {
+      "id": 8,
+      "title": "Pancakes",
+      "price": 70,
+      "image": "https://img.freepik.com/free-photo/chicken-wings_144627-17035.jpg?w=2000"
+    },
+    {
+      "id": 9,
+      "title": "Apple Pie",
+      "price": 40,
+      "image": "https://img.freepik.com/free-photo/chicken-wings_144627-17035.jpg?w=2000"
+    },
+    {
+      "id": 10,
+      "title": "Banana Bread",
+      "price": 200,
       "image": "https://img.freepik.com/free-photo/chicken-wings_144627-17035.jpg?w=2000"
     }
   ]
