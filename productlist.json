@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Fried Chicken",
+      "price": 20,
+      "image": "https://img.freepik.com/free-photo/chicken-wings_144627-17035.jpg?w=2000"
+    },
+    {
+      "id": 1,
+      "title": "Fried Chicken",
+      "price": 20,
+      "image": "https://img.freepik.com/free-photo/chicken-wings_144627-17035.jpg?w=2000"
+    },
+    {
+      "id": 1,
+      "title": "Fried Chicken",
+      "price": 20,
+      "image": "https://img.freepik.com/free-photo/chicken-wings_144627-17035.jpg?w=2000"
+    },
+    {
+      "id": 1,
+      "title": "Fried Chicken",
+      "price": 20,
+      "image": "https://img.freepik.com/free-photo/chicken-wings_144627-17035.jpg?w=2000"
+    },
+    {
+      "id": 1,
+      "title": "Fried Chicken",
+      "price": 20,
+      "image": "https://img.freepik.com/free-photo/chicken-wings_144627-17035.jpg?w=2000"
+    }
+  ]
+}
